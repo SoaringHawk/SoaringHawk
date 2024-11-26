@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer based in Montreal, Canada. With a passion for creating innovative solutions, I bring a strong background in software development and a commitment to continuous learning. I have built many projects using many different languages and tools. Endorsed for relevant skills and backed by positive recommendations, I present a consistent and professional image that aligns with my career objectives. Open to collaboration and new opportunities, I am dedicated to contributing my expertise to impactful projects in the field of software development.
+With a passion for creating innovative solutions, I bring a strong background in software development and a commitment to continuous learning. I have built many projects using many different languages and tools. Endorsed for relevant skills and backed by positive recommendations, I present a consistent and professional image that aligns with my career objectives. Open to collaboration and new opportunities, I am dedicated to contributing my expertise to impactful projects in the field of software development.
 
 
 ## 🌐 Socials:
